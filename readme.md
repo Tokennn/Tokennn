@@ -1,6 +1,6 @@
 <h1 align="center">
     <p>
-        <img src="https://readme-typing-svg.herokuapp.com/?color=DD6387&center=true&lines=Developer+-+Reverser+-+Cheater">
+        <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&center=true&lines=Developer+-+Reverser+-+Cheater">
     </p>
 </h1>
   
