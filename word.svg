@@ -20,7 +20,7 @@
         .icone path:nth-child(1) {
             stroke-dasharray: 2333px;
             stroke-dashoffset: 2333px;
-            animation: anim 7s ease forwards;
+            animation: anim 5s ease forwards;
         }
         @keyframes anim {
             to {
