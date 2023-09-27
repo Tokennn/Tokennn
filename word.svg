@@ -7,7 +7,7 @@
             box-sizing: border-box;
         }
         body {
-            width: 75%;
+            width: 25%;
             height: 100vh;
             background: #b62379;
         }
