@@ -1,6 +1,3 @@
-<div style="width: 75%;">
-  <img src="word.svg" style="width: 100%;"
-</div>
 
 <h1 align="center">
     <p>
