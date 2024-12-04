@@ -6,7 +6,12 @@
 </h1>
 
 
-
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api?username=MounKilian&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Kilian's github stats" class="left" /></a> 
+</div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounKilian&layout=compact&theme=github_dark&hide_border=true" class="center" /></a>
+</div>
   
 <p>
     <img align="center" width="100%" src="https://media.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif" />
