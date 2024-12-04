@@ -6,9 +6,6 @@
 </h1>
 
 
-## Mes statistiques GitHub 🚀
-
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=BreadcrumbsTokennn/&show_icons=true&theme=radical)
 
   
 <p>
