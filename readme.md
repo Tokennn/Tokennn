@@ -6,7 +6,8 @@
 </h1>
   
 <p>
-    <img align="center" width="100%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3U3YzBzd3JheDN1MzI4amduZ2tlN2FubDdneThqMmxuZDU0NnNieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4Zvt1lpMbhK8QkOubU/giphy.gif" />
+    <video align="center" width="100%" src="Vid_Portfolio.mp4" autoplay muted loop playsinline controls>
+    </video>
 </p>
 
 
