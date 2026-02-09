@@ -6,7 +6,7 @@
 </h1>
   
 <p>
-    <video align="center" width="100%" src="Vid_Portfolio.mp4" autoplay muted loop playsinline controls>
+    <video align="center" width="100%" src="Vid_Portfolio.gif" autoplay muted loop playsinline controls>
     </video>
 </p>
 
