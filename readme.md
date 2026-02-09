@@ -5,8 +5,8 @@
     </p>
 </h1>
   
-<p align="center">
-    <a href="https://youtu.be/CHUcvVnVc38"></a>
+<p>
+    <img align="center" width="100%" src="Vid_Portfolio.gif" />
 </p>
 
 
