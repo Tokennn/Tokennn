@@ -6,7 +6,7 @@
 </h1>
   
 <p align="center">
-    <a href="https://youtu.be/CHUcvVnVc38">Voir la vidéo (YouTube)</a>
+    <a href="https://youtu.be/CHUcvVnVc38"></a>
 </p>
 
 
