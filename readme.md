@@ -5,9 +5,8 @@
     </p>
 </h1>
   
-<p>
-    <video align="center" width="100%" src="Vid_Portfolio.gif" autoplay muted loop playsinline controls>
-    </video>
+<p align="center">
+    <a href="Vid_Portfolio.mp4">Voir la vidéo (MP4)</a>
 </p>
 
 
