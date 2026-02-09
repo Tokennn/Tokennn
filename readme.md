@@ -6,7 +6,7 @@
 </h1>
   
 <p align="center">
-    <a href="Vid_Portfolio.mp4">Voir la vidéo (MP4)</a>
+    <a href="https://youtu.be/CHUcvVnVc38">Voir la vidéo (YouTube)</a>
 </p>
 
 
