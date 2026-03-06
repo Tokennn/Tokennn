@@ -6,7 +6,7 @@
 </h1>
   
 <p>
-    <img align="center" width="100%" src="Vid_Portfolio.gif" />
+    <img align="center" width="100%" src="vid_portfolio.gif" />
 </p>
 
 
